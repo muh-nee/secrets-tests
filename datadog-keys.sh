@@ -1,1 +1,3 @@
-export DD_API_KEY=2cf51e2bpc129f87721ff72f1eb7a154
+export DD_SITE=datad0g.com
+export DD_APP_KEY=woiejfwoeij
+export DD_API_KEY=2ad38d7abc128d87720af72f1eb7b174
